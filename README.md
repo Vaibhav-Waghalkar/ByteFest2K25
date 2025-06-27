@@ -14,6 +14,7 @@ This is a fully responsive static website containing all event details, rules, r
 ```
 
 ByteFest2K25/
+
 ├── index.html
 ├── style.css
 ├── Images/
