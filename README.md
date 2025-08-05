@@ -71,7 +71,7 @@ ByteFest2K25/
 
 ## 📬 Contact
 
-Developed with 💻 and 💙 by [Vaibhav Waghalkar](https://www.linkedin.com/in/vaibhav-waghalkar-848885343/)  
+Developed by [Vaibhav Waghalkar](https://www.linkedin.com/in/vaibhav-waghalkar-848885343/)  
 📧 Email: [vaibhavwaghalkar2@gmail.com](mailto:vaibhavwaghalkar2@gmail.com)
 
 ---
@@ -87,4 +87,5 @@ This project is licensed under the [MIT License](LICENSE).
 ```
 
 ---
+
 
