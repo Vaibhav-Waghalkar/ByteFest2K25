@@ -15,7 +15,7 @@ This is a fully responsive static website containing all event details, rules, r
 
 ByteFest2K25/
 
-├── index.html /n
+├── index.html 
 ├── style.css
 ├── Images/
 ├── Code\_of\_conduct.html
@@ -87,6 +87,7 @@ This project is licensed under the [MIT License](LICENSE).
 ```
 
 ---
+
 
 
 
