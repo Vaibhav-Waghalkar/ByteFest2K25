@@ -1,5 +1,3 @@
-
-```
 # 🎉 ByteFest 2K25 – Official Event Website
 
 Welcome to the official repository for **ByteFest 2K25**, a tech fest organized by our college.  
@@ -11,28 +9,26 @@ This is a fully responsive static website containing all event details, rules, r
 
 ## 📁 Project Structure
 
-```
-
 ByteFest2K25/
-
-├── index.html 
+├── index.html
 ├── style.css
 ├── Images/
-├── Code\_of\_conduct.html
-├── Coding\_Challenge.html
-├── Debug\_Code.html
-├── Escape\_room.html
+├── Code_of_conduct.html
+├── Coding_Challenge.html
+├── Debug_Code.html
+├── Escape_room.html
 ├── FAQ.html
-├── Game(BGMI).html
+├── Game_BGMI.html
 ├── hackathon.html
 ├── poster.html
-├── Privacy\_policy.html
-├── Public\_speak.html
+├── Privacy_policy.html
+├── Public_speak.html
 ├── Registration.html
-├── Tech\_debate.html
-└── Terms\_of\_services.html
+├── Tech_debate.html
+└── Terms_of_services.html
 
-```
+
+
 
 ---
 
@@ -48,9 +44,9 @@ ByteFest2K25/
 
 ## 🛠️ Built With
 
-- **HTML5** – Page structure
-- **CSS3** – Styling & responsiveness
-- *(No JS used, but scalable for future interactivity)*
+- **HTML5** – Page structure  
+- **CSS3** – Styling & responsiveness  
+- *(No JS used — but ready for future upgrades)*
 
 ---
 
@@ -84,10 +80,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 > 💡 _"Code it. Host it. Show the world."_  
 > ✨ Proud contributor to student innovation at ByteFest 2K25 ✨
-```
-
----
-
-
-
-
